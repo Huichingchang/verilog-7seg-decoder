@@ -44,7 +44,7 @@ markdown
 🖼️ `wave_seven_seg_decoder_tb.png`  
 Shows how binary input changes over time and how the corresponding `seg` output is updated.
 
-![Waveform](wave_seven_seg_decoder_tb.png)
+![Waveform](wave_seven_seg_tb.png)
 
 ## 🧠 RTL Schematic
 
